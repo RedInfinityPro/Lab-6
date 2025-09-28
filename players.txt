@@ -1,0 +1,5 @@
+Fighter,name,18,15,12,9,7,10,5
+Wizard,name,12,10,15,17,9,15,3
+Priest,name,15,12,16,8,10,8,3
+Rogue,name,12,18,10,9,14,4,6
+Wizard,name,9,10,15,17,11,12,5
